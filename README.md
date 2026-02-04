@@ -161,7 +161,20 @@ The smart matching system uses:
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here*
+### Home Page
+![Home Page](screenshots/home.png)
+
+### All Items
+![All Items](screenshots/all%20items.png)
+
+### Lost Item
+![Lost Item](screenshots/lost%20item.png)
+
+### Found Items
+![Found Items](screenshots/found%20items.png)
+
+### AI Matching
+![AI Matching](screenshots/ai%20match.png)
 
 ## 🤝 Contributing
 
