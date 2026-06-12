@@ -194,13 +194,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Yawar Abbas**
 
-## 🙏 Acknowledgments
-
-- Django Documentation
-- scikit-learn Documentation
-- Bootstrap Team
-- University of Management and Technology
-
----
 
 ⭐ Star this repository if you found it helpful!
