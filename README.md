@@ -192,8 +192,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yawar2518](https://github.com/yawar2518/campus-lost-and-found.git)
+**Yawar Abbas**
 
 ## 🙏 Acknowledgments
 
