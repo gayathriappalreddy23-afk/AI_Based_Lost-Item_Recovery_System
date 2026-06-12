@@ -59,7 +59,7 @@ A comprehensive web application designed to help university students and staff r
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/campus-lost-and-found.git
+   git clone https://github.com/yawar2518/campus-lost-and-found.git
    cd campus-lost-and-found
    ```
 
