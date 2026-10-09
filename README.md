@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Campus Lost & Found Smart Portal
 
 A comprehensive web application designed to help university students and staff report, track, and recover lost items on campus. Built with Django and powered by AI-based matching algorithms.
@@ -196,3 +197,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ⭐ Star this repository if you found it helpful!
+=======
+# AI_Based_Lost-Item_Recovery_System
+>>>>>>> origin/main
